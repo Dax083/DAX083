@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://github.com/Dax083" target="_blank">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LeonardoYz&show_icons=true&theme=react" alt="LeonardoYz's Stats" />
+    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=AKAGAMI BOTZ&show_icons=true&theme=react" alt="LeonardoYz's Stats" />
     <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAX083&layout=compact&theme=react" alt="Most Used Languages" />
   </a>
 </p>
