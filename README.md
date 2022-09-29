@@ -1,4 +1,4 @@
-<h1> 𝗛𝗶! 𝗜'𝗺 𝗟𝗲𝗼𝗻𝗮𝗿𝗱𝗼.<img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
+<h1> 𝗛𝗶! 𝗜'𝗺 DAX.<img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 <img align="right" width="50%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif">
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
@@ -31,9 +31,9 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/LeonardoYz" target="_blank">
+  <a href="https://github.com/Dax083" target="_blank">
     <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LeonardoYz&show_icons=true&theme=react" alt="LeonardoYz's Stats" />
-    <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoYz&layout=compact&theme=react" alt="Most Used Languages" />
+    <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAX083&layout=compact&theme=react" alt="Most Used Languages" />
   </a>
 </p>
 </details>
@@ -58,7 +58,7 @@
 <br/>
 
 
-  ![Snake animation](https://github.com/LeonardoYz/LeonardoYz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Dax083/blob/output/github-contribution-grid-snake.svg)
 
 #
 
@@ -66,5 +66,5 @@
 
 #
 
-<h4>𝗖𝗿𝗲𝗱𝗶𝘁: <a href="https://github.com/LeonardoYz">LeonardoYz</a></h4>
+<h4>𝗖𝗿𝗲𝗱𝗶𝘁: <a href="https://github.com/Dax083">LeonardoYz</a></h4>
 <p>𝗟𝗮𝘀𝘁 𝗘𝗱𝗶𝘁𝗲𝗱 𝗢𝗻: 04/08/2022</p>
